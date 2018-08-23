@@ -69,13 +69,14 @@ html, body, h2, h3, h4, h5, h6, a {
   border: 1px solid #434343;
   display: inline-block; }
 
-.masthead span {
+.masthead .my-title {
   display: inline-block;
   margin: -1px 20px;
   font-size: 30px;
   padding: 0; }
 
 .passion {
+  margin: 50px auto;
   display: block;
   font-size: 25px;
   min-height: 50px;
@@ -92,6 +93,15 @@ html, body, h2, h3, h4, h5, h6, a {
     padding: 0 !important;
     margin: 0; }
 
-hr {
-  width: 100%;
-  max-width: 100% !important; }
+@media only screen and (max-width: 767px) {
+  .masthead {
+    width: 90%;
+    margin: 0 auto; }
+    .masthead h1 {
+      font-size: 24px; }
+    .masthead .my-title {
+      font-size: 20px; }
+  .passion {
+    height: 60px; }
+  .passion, .passion span {
+    font-size: 20px; } }

@@ -42,15 +42,37 @@ html, body, h2, h3, h4, h5, h6, a {
 }
 .masthead {
     h1 { display: inline-block; line-height: 1.25em; font-size: 35px; text-transform: uppercase; padding: 15px 20px; border: 1px solid #434343; display: inline-block;}
-    span { display: inline-block; margin: -1px 20px; font-size: 30px; padding: 0; }
+    .my-title { display: inline-block; margin: -1px 20px; font-size: 30px; padding: 0; }
 }
 
 .passion { 
+    margin: 50px auto;
     display: block; font-size: 25px; min-height: 50px; padding: 0 20px; font-size: 25px; 
     span { margin: 0; padding: 0; display: inline; font-size: 25px;  }
     .message { border-bottom: 1px solid #444; }
     .typed-cursor { padding: 0 !important; margin: 0; }
 }
 
-hr { width: 100%; max-width: 100% !important; } 
+ @media only screen and (max-width: 767px) {
 
+    .masthead { 
+        width: 90%;
+        margin: 0 auto;
+       
+        h1 {
+            font-size: 24px;
+        }
+        .my-title {
+            font-size: 20px;            
+        }
+    }
+    .passion {
+
+        height: 60px;    
+    }
+    .passion, .passion span { 
+        font-size: 20px;
+    }
+
+
+ }

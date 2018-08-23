@@ -55,11 +55,11 @@ ob_start("Minify_Html");?>
         
             
             <h1>Michael Rosario</h1>
-            <span>Web Designer & Developer</span>
-            <div class="clearfix" style="height: 50px;"></div>
+            <span class="my-title">Web Designer & Developer</span>
+            
+            
             <div class="passion">I am passionate about <span class="message"></span>.</div>
 
-            <div class="clearfix" style="height: 50px;"></div>
            
             <div class="social">
                 <div class="socialicon"><a href="https://www.linkedin.com/in/michaelrosario" target="_blank"><ins class="fa fa-linkedin" /></a></div>
