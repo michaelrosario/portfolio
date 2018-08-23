@@ -1,49 +1,97 @@
 @font-face {
-    font-family: "Monotype Corsiva";
-    src: url(../fonts/NK_MonotypeCorsiva.woff);
-}
+  font-family: "Monotype Corsiva";
+  src: url(../fonts/NK_MonotypeCorsiva.woff); }
 
 @font-face {
-    font-family: "Georgia";
-    src: url(../fonts/Georgia.woff2);
-}
+  font-family: "Georgia";
+  src: url(../fonts/Georgia.woff2); }
 
 html, body, h2, h3, h4, h5, h6, a {
-    font-family: Georgia, serif !important;
-    font-size: 16px;
-}
+  font-family: Georgia, serif !important;
+  font-size: 16px; }
 
-#sitewrapper { 
-    -webkit-transform-style: preserve-3d;
-    -moz-transform-style: preserve-3d;
-    transform-style: preserve-3d;
-    float: left; 
-    position: fixed;
-    width: 100%;
-    height: 100%;
-    display: inline-block;
+#sitewrapper {
+  -webkit-transform-style: preserve-3d;
+  -moz-transform-style: preserve-3d;
+  transform-style: preserve-3d;
+  float: left;
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  display: inline-block;
+  text-align: center; }
+
+.masthead {
+  position: relative;
+  top: 50%;
+  transform: perspective(1px) translateY(-50%); }
+
+.clearfix {
+  height: 20px; }
+
+.social {
+  display: inline-block;
+  margin: 0 auto; }
+
+.socialicon {
+  display: inline-block;
+  margin: 4px;
+  padding: 0px 0px;
+  position: relative;
+  height: 43px;
+  width: 43px;
+  text-align: center; }
+  .socialicon a {
+    transition: all .3s ease;
+    font-size: 20px;
+    color: #666;
+    display: table-cell;
+    height: 43px;
+    width: 43px;
     text-align: center;
-}
-.masthead { 
-    position: relative;
-    top: 50%;
-    transform: perspective(1px) translateY(-50%);
-}
-.clearfix { height: 20px; }
-.social { display: inline-block; margin: 0 auto; }
-.socialicon {  display: inline-block; margin: 4px; padding: 0px 0px; position: relative; height: 43px; width: 43px; text-align: center;  }
-.socialicon a { transition: all .3s ease;  font-size: 20px; color: #666; display: table-cell; height: 43px; width: 43px; text-align: center; border-radius: 100px; border: 1px solid #CCC; vertical-align: middle;  }
-.socialicon a:hover { color: #000; border: 1px solid #000; }
-.socialicon ins { outline: none; text-decoration: none;
+    border-radius: 100px;
+    border: 1px solid #CCC;
+    vertical-align: middle; }
+  .socialicon a:hover {
+    color: #000;
+    border: 1px solid #000; }
+  .socialicon ins {
+    outline: none;
+    text-decoration: none;
+    display: inline; }
+
+.masthead h1 {
+  display: inline-block;
+  line-height: 1.25em;
+  font-size: 35px;
+  text-transform: uppercase;
+  padding: 15px 20px;
+  border: 1px solid #434343;
+  display: inline-block; }
+
+.masthead span {
+  display: inline-block;
+  margin: -1px 20px;
+  font-size: 30px;
+  padding: 0; }
+
+.passion {
+  display: block;
+  font-size: 25px;
+  min-height: 50px;
+  padding: 0 20px;
+  font-size: 25px; }
+  .passion span {
+    margin: 0;
+    padding: 0;
     display: inline;
-}
-.masthead h1 { display: inline-block; line-height: 1.25em; font-size: 35px; text-transform: uppercase; padding: 15px 20px; border: 1px solid #434343; display: inline-block;}
-.masthead span { display: inline-block; margin: -1px 20px; font-size: 30px; padding: 0; }
+    font-size: 25px; }
+  .passion .message {
+    border-bottom: 1px solid #444; }
+  .passion .typed-cursor {
+    padding: 0 !important;
+    margin: 0; }
 
-.passion { display: block; font-size: 25px; min-height: 50px; padding: 0 20px; font-size: 25px; }
-.passion span { margin: 0; padding: 0; display: inline; font-size: 25px;  }
-.passion .message { border-bottom: 1px solid #444; }
-.passion .typed-cursor { padding: 0 !important; margin: 0; }
-
-hr { width: 100%; max-width: 100% !important; } 
-
+hr {
+  width: 100%;
+  max-width: 100% !important; }

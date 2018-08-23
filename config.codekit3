@@ -21,7 +21,7 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/index.php",
-		"oF": 0
+		"oF": 1
 		},
 	"\/resources\/css\/foundation.min.css": {
 		"aP": 1,
@@ -62,6 +62,19 @@
 		"oAP": "\/resources\/css\/style-min.css",
 		"oF": 0,
 		"oS": 3
+		},
+	"\/resources\/css\/style.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/resources\/css\/style.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
 		},
 	"\/resources\/fonts\/Georgia.woff": {
 		"cB": 0,
