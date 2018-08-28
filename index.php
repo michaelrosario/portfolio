@@ -45,11 +45,21 @@ ob_start("Minify_Html");?>
 	<meta property="og:type" content="website"/>
 	<meta property="og:description" content="Michael Rosario is a Web Designer and Developer." />
 	<meta property="og:url" content="http://www.michaelrosario.com" />
+
+    <noscript>
+        <style>
+            body, html { height: 100%; }
+        </style>
+    </noscript>
     
 </head>
-<body>
+<body> 
 
-    <div id="intro">
+    <div class="my-logo">
+        <h1>Michael Rosario</h1>
+    </div>
+
+    <div id="intro" class="wrapper">
         <div class="masthead">
 
         
@@ -77,37 +87,29 @@ ob_start("Minify_Html");?>
     </div>
    
 
-    <div id="about-me">
-
-        <div class="my-logo">
-            <h1>Michael Rosario</h1>
-        </div>
+    <div id="about-me" class="wrapper">
 
         <div class="passion">I am passionate about <span class="message"></span></div>
 
     </div>
 
-    <div id="tools">
+    <div id="tools" class="wrapper">
 
         <h3>I use a plethora of softwares and tools to efficiently create websites:</h3>
-
-       
-              
-                <a href="https://www.github.com" target="_blank"><ins class="fa fa-github" /></a>
-                <a href="https://www.github.com" target="_blank"><ins class="fa fa-css3" /></a>
-                 <a href="https://www.github.com" target="_blank"><ins class="fa fa-dropbox" /></a>
-                 <a href="https://www.github.com" target="_blank"><ins class="fa fa-html5" /></a>
-                 <a href="https://www.github.com" target="_blank"><ins class="fa fa-apple" /></a>
-                
-         
+        <a href="https://www.github.com" target="_blank"><ins class="fa fa-github" /></a>
+        <a href="https://www.github.com" target="_blank"><ins class="fa fa-css3" /></a>
+        <a href="https://www.github.com" target="_blank"><ins class="fa fa-dropbox" /></a>
+        <a href="https://www.github.com" target="_blank"><ins class="fa fa-html5" /></a>
+        <a href="https://www.github.com" target="_blank"><ins class="fa fa-apple" /></a>
 
     </div>  
+
 
     <script src="resources/js/vendor/jquery-3.3.1.min.js"></script>
     <script src="resources/js/vendor/what-input.js"></script>
     <script src="resources/js/vendor/typed.min.js"></script>
     <script src="resources/js/vendor/foundation.min.js"></script>
-    <script src="resources/js/app.js"></script>
+    <script src="resources/js/app-min.js"></script>
     
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-124529822-1"></script>
