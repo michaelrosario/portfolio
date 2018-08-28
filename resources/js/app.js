@@ -22,17 +22,17 @@ $(".scrollTo").on("click",function(e){
   	return false;
 });
 
-$(".my-log,.passion").fadeOut(); 
+$(".my-logo").fadeOut(); 
 
 $(window).scroll(function() {
 
   if($(window).scrollTop() >= $("#about-me").offset().top){
 
-    $(".my-logo,.passion").fadeIn(); 
+    $(".my-logo").fadeIn(); 
 
   } else {
 
-    $(".my-log,.passion").fadeOut(); 
+    $(".my-logo").fadeOut(); 
 
   }
 

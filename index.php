@@ -74,9 +74,6 @@ ob_start("Minify_Html");?>
                 <div class="socialicon"><a href="https://www.github.com/michaelrosario" target="_blank"><ins class="fa fa-git" /></a></div>
                 <div class="socialicon"><a href="mailto:mail@michaelrosario.com" target="_blank"><ins class="fa fa-envelope-o" /></a></div>
             </div>
-
-
-            
            
          </div>
 
