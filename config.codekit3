@@ -9,6 +9,13 @@
 	],
 "creatorBuild": "26680",
 "files": {
+	"\/.gitignore": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/.gitignore",
+		"oF": 0
+		},
 	"\/contactengine.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -73,7 +80,7 @@
 		"oA": 0,
 		"oAP": "\/resources\/css\/style.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 2,
 		"uL": 1
 		},
 	"\/resources\/fonts\/Georgia.woff": {
@@ -103,263 +110,6 @@
 		"oA": 0,
 		"oAP": "\/resources\/fonts\/NK_MonotypeCorsiva.woff2",
 		"oF": 0
-		},
-	"\/resources\/images\/atlantic-logo-big.png": {
-		"ft": 32768,
-		"iS": 14463,
-		"oA": 0,
-		"oAP": "\/resources\/images\/atlantic-logo-big.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/resources\/images\/atlantic-logo-cropped.png": {
-		"ft": 32768,
-		"iS": 0,
-		"oA": 0,
-		"oAP": "\/resources\/images\/atlantic-logo-cropped.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/resources\/images\/bottom-border.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/resources\/images\/bottom-border.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/resources\/images\/bricks-icon.png": {
-		"ft": 32768,
-		"iS": 0,
-		"oA": 0,
-		"oAP": "\/resources\/images\/bricks-icon.png",
-		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/resources\/images\/demolition-icon.png": {
-		"ft": 32768,
-		"iS": 2734,
-		"oA": 0,
-		"oAP": "\/resources\/images\/demolition-icon.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/resources\/images\/faucet-icon.png": {
-		"ft": 32768,
-		"iS": 1729,
-		"oA": 0,
-		"oAP": "\/resources\/images\/faucet-icon.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/resources\/images\/floorplan-icon.png": {
-		"ft": 32768,
-		"iS": 1151,
-		"oA": 0,
-		"oAP": "\/resources\/images\/floorplan-icon.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/resources\/images\/hammer-icon.png": {
-		"ft": 32768,
-		"iS": 1539,
-		"oA": 0,
-		"oAP": "\/resources\/images\/hammer-icon.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/resources\/images\/hero.jpeg": {
-		"ft": 16384,
-		"iS": 0,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/resources\/images\/hero.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/resources\/images\/iStock-680118488.eps": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/resources\/images\/iStock-680118488.eps",
-		"oF": 0
-		},
-	"\/resources\/images\/paint-icon.png": {
-		"ft": 32768,
-		"iS": 1166,
-		"oA": 0,
-		"oAP": "\/resources\/images\/paint-icon.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/resources\/images\/services-icons.png": {
-		"ft": 32768,
-		"iS": 0,
-		"oA": 0,
-		"oAP": "\/resources\/images\/services-icons.png",
-		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/resources\/images\/services.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/resources\/images\/services.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/resources\/images\/top-border.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/resources\/images\/top-border.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/resources\/images\/trowel-icon.png": {
-		"ft": 32768,
-		"iS": 1519,
-		"oA": 0,
-		"oAP": "\/resources\/images\/trowel-icon.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/resources\/images\/wooden_floors.jpg": {
-		"ft": 16384,
-		"iS": 0,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/resources\/images\/wooden_floors.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/resources\/images\/work1.jpg": {
-		"ft": 16384,
-		"iS": 9174,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/resources\/images\/work1.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/resources\/images\/work2.jpg": {
-		"ft": 16384,
-		"iS": 4999,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/resources\/images\/work2.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/resources\/images\/work3.jpg": {
-		"ft": 16384,
-		"iS": 0,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/resources\/images\/work3.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/resources\/images\/work4.jpg": {
-		"ft": 16384,
-		"iS": 0,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/resources\/images\/work4.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/resources\/images\/work5.jpg": {
-		"ft": 16384,
-		"iS": 7300,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/resources\/images\/work5.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/resources\/images\/work6.jpg": {
-		"ft": 16384,
-		"iS": 4634,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/resources\/images\/work6.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/resources\/images\/work7.jpg": {
-		"ft": 16384,
-		"iS": 5604,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/resources\/images\/work7.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/resources\/images\/work8.jpg": {
-		"ft": 16384,
-		"iS": 3967,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/resources\/images\/work8.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
 		},
 	"\/resources\/js\/app-min.js": {
 		"ft": 64,
