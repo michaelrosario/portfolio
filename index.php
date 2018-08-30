@@ -69,14 +69,15 @@ ob_start("Minify_Html");?>
                 <div class="clearfix" style="height: 50px;"></div>
             </div>
             <div class="social">
-                <div class="socialicon"><a href="https://www.linkedin.com/in/michaelrosario" target="_blank"><ins class="fa fa-linkedin" /></a></div>
+                <div class="socialicon">
+                    <a href="https://www.linkedin.com/in/michaelrosario" target="_blank">
+                        <ins class="fa fa-linkedin" />
+                    </a>
+                </div>
                 <div class="socialicon"><a href="https://www.twitter.com/michael_rosario" target="_blank"><ins class="fa fa-twitter" /></a></div>
                 <div class="socialicon"><a href="https://www.github.com/michaelrosario" target="_blank"><ins class="fa fa-git" /></a></div>
                 <div class="socialicon"><a href="mailto:mail@michaelrosario.com" target="_blank"><ins class="fa fa-envelope-o" /></a></div>
             </div>
-
-
-            
            
          </div>
 
@@ -96,11 +97,15 @@ ob_start("Minify_Html");?>
     <div id="tools" class="wrapper">
 
         <h3>I use a plethora of softwares and tools to efficiently create websites:</h3>
-        <a href="https://www.github.com" target="_blank"><ins class="fa fa-github" /></a>
-        <a href="https://www.github.com" target="_blank"><ins class="fa fa-css3" /></a>
-        <a href="https://www.github.com" target="_blank"><ins class="fa fa-dropbox" /></a>
-        <a href="https://www.github.com" target="_blank"><ins class="fa fa-html5" /></a>
-        <a href="https://www.github.com" target="_blank"><ins class="fa fa-apple" /></a>
+        
+        <ul class="toolbelt">
+            <li><a href="https://www.github.com" target="_blank"><ins class="fa fa-github" /></a></li>
+            <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3" target="_blank"><ins class="fa fa-css3" /></a></li>
+            <li><a href="https://db.tt/YT35VfbH" target="_blank"><ins class="fa fa-dropbox" /></a></li>
+            <li><a href="https://www.w3schools.com/html/html5_intro.asp" target="_blank"><ins class="fa fa-html5" /></a></li>
+            <li><a href="https://www.apple.com/" target="_blank"><ins class="fa fa-apple" /></a></li>
+            <li><a href="https://www.slack.com/" target="_blank"><ins class="fa fa-slack" /></a></li>
+        </ul>
 
     </div>  
 
