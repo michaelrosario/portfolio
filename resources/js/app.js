@@ -87,7 +87,7 @@ function randomizeIcons(){
 
                 $(this)
                     .css("position","relative")
-                    .find("ins").css("opacity",0.4)
+                    .find("ins").css("opacity",0)
                     .addClass("visible");
                     
                 $(this).append(content)

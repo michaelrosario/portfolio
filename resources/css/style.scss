@@ -156,6 +156,15 @@ ins { text-decoration: none; }
         color: #cbcbcb;
         text-align: left;
     }
+    .resume-download {
+        font-family: Arial, Helvetica, sans-serif;
+        padding: 10px 20px; 
+        margin: 20px auto; 
+        border-radius: 3px;
+        border: 1px solid #CCC;
+        color: #CCC;
+        font-size: 16px;
+    }
 }
 .typed-cursor { padding: 0 !important; margin: 0 !important; width: 10px !important; }
 .my-logo {  
@@ -242,12 +251,25 @@ ins { text-decoration: none; }
             font-size: 20px;            
         }
     }
-    .passion {
-
-        height: 60px;    
-    }
-    .passion, .passion span { 
-        font-size: 20px;
+    #tools,
+    #about-me { 
+        .passion {
+            top: 18%;
+            font-size: 20px;
+            line-height: 1.25em;
+            margin: 30px auto 20px;
+        }
+        .passion span {
+            font-size: 20px;
+        }
+        .about-text {
+            font-size: 13px;
+            width: 90%;
+            max-width: 650px;
+        }
+        .resume-download {
+            font-size: 14px;
+        }
     }
 
     #tools { 

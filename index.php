@@ -103,6 +103,9 @@ ob_start("Minify_Html");?>
             <p>He then started Elemento, Inc. in 2014, working and looking for cool projects to work on and make online work for businesses and others alike.</p>
 
         </div>
+        <div class="clearfix"></div>
+        <a class="resume-download" href="/resume/michael-rosario-resume.pdf" download="michael-rosario-resume.pdf"><i class="fas fa-file-download"></i> &nbsp; Resume</a>
+
 
     </div>
 
