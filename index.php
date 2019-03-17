@@ -92,6 +92,18 @@ ob_start("Minify_Html");?>
 
         <div class="passion">I am passionate about <span class="message"></span></div>
 
+        <div class="about-text">
+
+            <p>Michael Rosario is a web developer, designer, project manager and the owner of Elemento, Inc. He provides online solutions to small to large businesses - creating websites, banner ads, html emails and anything and everything from the web!</p>
+
+            <p>He has an art background from Fiorello H. Laguardia High School of Music and Art & Performing Arts and a Computer Engineering degree from the City College of New York.</p>
+
+            <p>Worked in IT for 6 years and another 6 years working at a Award-winning Web development agency.</p>
+
+            <p>He then started Elemento, Inc. in 2014, working and looking for cool projects to work on and make online work for businesses and others alike.</p>
+
+        </div>
+
     </div>
 
     <div id="tools" class="wrapper">

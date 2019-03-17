@@ -103,7 +103,7 @@ ins { text-decoration: none; }
         border-radius: 1000px; 
         border: 1px solid #CCC; 
         vertical-align: middle; 
-        padding: 3px 0 0 0;
+        padding: 2px 0 0 0;
     }
     a:hover { color: #000; border: 1px solid #000; }
     ins { 
@@ -140,14 +140,21 @@ ins { text-decoration: none; }
     .passion {
         font-family: "courier","courier new"; 
         position: relative;
-        top: 50%;
-        transform: perspective(1px) translateY(-50%);
+        top: 24%;
+        transform: perspective(1px) translateY(-24%);
         margin: 50px auto;
-        color: #FFF;
+        color: #888;
         display: block; font-size: 25px; min-height: 150px; padding: 0 20px; font-size: 25px; 
         span { margin: 0; padding: 0; display: inline; font-size: 25px;  }
         .message { border-bottom: 1px solid #444; margin: 0; padding: 0; }
-        
+    }
+    .about-text {
+        font-family: Arial, Helvetica, sans-serif;
+        margin: 0 auto;
+        width: 90%;
+        max-width: 650px;
+        color: #cbcbcb;
+        text-align: left;
     }
 }
 .typed-cursor { padding: 0 !important; margin: 0 !important; width: 10px !important; }
@@ -159,7 +166,7 @@ ins { text-decoration: none; }
         position: fixed;
         top: 20px;
         left: 20px;
-        h1 { font-size: 25px; border: 1px solid #FFF; padding: 10px 15px; margin: 0; }
+        h1 { font-size: 25px; border: 1px solid #FFF; padding: 10px 15px; margin: 0 auto; }
 
         &:hover { opacity: 1; }
     }
@@ -168,7 +175,7 @@ ins { text-decoration: none; }
     background-color: #9F9F9F; 
     padding: 30px;
     text-align: center;
-    H3 { font-size: 24px; margin: 50px auto 30px auto;  opacity: 0.4; }
+    H3 { font-size: 24px; margin: 150px auto 30px auto;  opacity: 0.4; }
     INS { font-size: 100px; }
     .toolbelt {
         margin: 0 auto;
@@ -188,7 +195,7 @@ ins { text-decoration: none; }
                 text-align: center;
                 width: 140px;
                 color: #fff;
-                ins { transition: 2s all linear; }
+                ins { transition: 1s all linear; }
             }
         }
     }
@@ -196,14 +203,20 @@ ins { text-decoration: none; }
         .toolbelt {
             li {
                 a {
-                   ins.visible {
-                       opacity: 0.75 !important;
-                       top: 0 !important;
-                       left: 0 !important;
-                   } 
-                   &:hover {
-                       opacity: 1;
-                   }
+                    transition: 0.19s all linear;
+                    opacity: 0.5;
+                    ins.visible {
+                        opacity: 1 !important;
+                        top: 50% !important; 
+                        left: 50% !important; 
+                        transform: translate(-50%, -50%) !important; 
+                        text-shadow: 2px 2px 2px #333;
+                        
+                    } 
+                }
+                a:hover {
+                    transition: 0.19s all linear;
+                    opacity: 0.8;
                 }
 
             }
@@ -212,6 +225,11 @@ ins { text-decoration: none; }
 }
 
  @media only screen and (max-width: 767px) {
+
+    .my-logo {
+       left: 50%;
+        margin-left: -130px;
+    }
 
     .masthead { 
         width: 90%;
@@ -233,7 +251,7 @@ ins { text-decoration: none; }
     }
 
     #tools { 
-        H3 { font-size: 18px; margin: 30px auto 20px auto;  opacity: 0.4; }
+        H3 { font-size: 18px; width: 90%; margin: 160px auto 20px auto;  opacity: 0.4; }
         INS { font-size: 50px; }
         .toolbelt {          
             li { 
