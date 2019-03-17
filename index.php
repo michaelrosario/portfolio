@@ -29,7 +29,7 @@ ob_start("Minify_Html");?>
     <link rel="stylesheet" type="text/css" href="/resources/css/reset.css">
     
     <link rel="stylesheet" type="text/css" href="/resources/css/foundation.min.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="/resources/css/style.css">
 
     <meta charset="UTF-8">
@@ -71,18 +71,18 @@ ob_start("Minify_Html");?>
             <div class="social">
                 <div class="socialicon">
                     <a href="https://www.linkedin.com/in/michaelrosario" target="_blank">
-                        <ins class="fa fa-linkedin" />
+                        <ins class="fab fa-linkedin-in" />
                     </a>
                 </div>
-                <div class="socialicon"><a href="https://www.twitter.com/michael_rosario" target="_blank"><ins class="fa fa-twitter" /></a></div>
-                <div class="socialicon"><a href="https://www.github.com/michaelrosario" target="_blank"><ins class="fa fa-git" /></a></div>
-                <div class="socialicon"><a href="mailto:mail@michaelrosario.com" target="_blank"><ins class="fa fa-envelope-o" /></a></div>
+                <div class="socialicon"><a href="https://www.twitter.com/michael_rosario" target="_blank"><ins class="fab fa-twitter" /></a></div>
+                <div class="socialicon"><a href="https://www.github.com/michaelrosario" target="_blank"><ins class="fab fa-git" /></a></div>
+                <div class="socialicon"><a href="mailto:mail@michaelrosario.com" target="_blank"><ins class="far fa-envelope" /></a></div>
             </div>
            
          </div>
 
         <div class="learn-more learnMain">
-            <a href="#" class="serif scrollTo" data-target="about-me">Learn More<br /><ins class="fa fa-chevron-down" /></a>
+            <a href="#" class="serif scrollTo" data-target="about-me">Learn More<br /><ins class="fas fa-chevron-down" /></a>
         </div>
 
     </div>
@@ -99,12 +99,15 @@ ob_start("Minify_Html");?>
         <h3>I use a plethora of softwares and tools to efficiently create websites:</h3>
         
         <ul class="toolbelt">
-            <li><a href="https://www.github.com" target="_blank"><ins class="fa fa-github" /></a></li>
-            <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3" target="_blank"><ins class="fa fa-css3" /></a></li>
-            <li><a href="https://db.tt/YT35VfbH" target="_blank"><ins class="fa fa-dropbox" /></a></li>
-            <li><a href="https://www.w3schools.com/html/html5_intro.asp" target="_blank"><ins class="fa fa-html5" /></a></li>
-            <li><a href="https://www.apple.com/" target="_blank"><ins class="fa fa-apple" /></a></li>
-            <li><a href="https://www.slack.com/" target="_blank"><ins class="fa fa-slack" /></a></li>
+            <li><a href="https://www.github.com" target="_blank"><ins class="fab fa-github" /></a></li>
+            <li><a href="http://www.php.net/" target="_blank"><ins  class="fab fa-php"/></a></li>
+            <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3" target="_blank"><ins class="fab fa-css3" /></a></li>
+            <li><a href="https://db.tt/YT35VfbH" target="_blank"><ins class="fab fa-dropbox" /></a></li>
+            <li><a href="https://www.w3schools.com/html/html5_intro.asp" target="_blank"><ins class="fab fa-html5" /></a></li>
+            <li><a href="https://www.apple.com/" target="_blank"><ins class="fab fa-apple" /></a></li>
+            <li><a href="https://www.slack.com/" target="_blank"><ins class="fab fa-slack" /></a></li>
+            <li><a href="https://nodejs.org/en/" target="_blank"><ins class="fab fa-node-js"/></a></li>
+            <li><a href="https://www.npmjs.com/" target="_blank"><ins class="fab fa-npm"/></a></li> 
         </ul>
 
     </div>  

@@ -41,3 +41,68 @@ $(window).scroll(function() {
 $(window).resize(function() {
   $(".wrapper").height($(window).height());
 });
+
+
+
+randomizeIcons();
+
+$(window).scroll(function(){
+        var number = $("#tools").position().top-$(document).scrollTop();
+        if(number <= 100){
+            $("#tools").addClass("reset");
+        } else if(number <= 1000) {
+
+            randomizeIcons();
+            $("#tools").removeClass("reset");
+            
+        }
+
+});
+
+function randomizeIcons(){
+    var num = -1;
+    $(".toolbelt a").each(function(){
+
+        num = num * -1;
+        var content = $(this).html();
+
+        if($("#tools").hasClass("reset")){
+
+          return false;
+
+         } else {
+
+            if($(this).find(".visible").length){
+
+                $(this)
+                    .find(".visible")  
+                    .css({
+                        "opacity":0,
+                        "position":"absolute",
+                        "top" : num*Math.random()*1000+"px",
+                        "left" : num*Math.random()*1000+"px"
+                    });
+
+            } else {
+
+                $(this)
+                    .css("position","relative")
+                    .find("ins").css("opacity",0.4)
+                    .addClass("visible");
+                    
+                $(this).append(content)
+                    .find(":not(.visible)")
+                    .css("opacity",0);
+                $(this)
+                    .find(".visible")  
+                    .css({
+                        "opacity":0,
+                        "position":"absolute",
+                        "top" : num*Math.random()*1000+"px",
+                        "left" : num*Math.random()*1000+"px"
+                    });
+            }
+        }
+
+    });
+}
