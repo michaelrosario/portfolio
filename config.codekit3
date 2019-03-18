@@ -118,6 +118,61 @@
 		"oAP": "/resources/fonts/NK_MonotypeCorsiva.woff2",
 		"oF": 0
 		},
+	"/resources/images/portfolio-gifstastic.png": {
+		"ft": 32768,
+		"iS": 2438380,
+		"oA": 0,
+		"oAP": "/resources/images/portfolio-gifstastic.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/resources/images/portfolio-rps.jpg": {
+		"ft": 16384,
+		"iS": 32937,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/resources/images/portfolio-rps.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/resources/images/portfolio-star_wars.png": {
+		"ft": 32768,
+		"iS": 274457,
+		"oA": 0,
+		"oAP": "/resources/images/portfolio-star_wars.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/resources/images/portfolio-trivia.png": {
+		"ft": 32768,
+		"iS": 125179,
+		"oA": 0,
+		"oAP": "/resources/images/portfolio-trivia.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/resources/images/portfolio-word_guess_game.png": {
+		"ft": 32768,
+		"iS": 34837,
+		"oA": 0,
+		"oAP": "/resources/images/portfolio-word_guess_game.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/resources/js/app-min.js": {
 		"bF": 0,
 		"ft": 64,
@@ -271,6 +326,14 @@
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
+		},
+	"/resume/michael-rosario-resume.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/resume/michael-rosario-resume.pdf",
+		"oF": 0
 		},
 	"/robots.txt": {
 		"cB": 0,

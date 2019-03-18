@@ -2,7 +2,10 @@
 
 $(document).foundation();
 
-$(".wrapper").height($(window).height());
+var windowHeight = $(window).height();
+if(windowHeight < 650) { windowHeight = 650; }
+
+$(".wrapper").height(windowHeight);
 
 new Typed('.message', {
   strings: ["building cool websites.^1200", "solving web problems.^1200","learning new things.^1200","collaborating with teams.^1200"],
@@ -25,21 +28,33 @@ $(".scrollTo").on("click",function(e){
 $(".my-logo").fadeOut(); 
 
 $(window).scroll(function() {
+  console.log(`${$(window).scrollTop()} AND ${$("#portfolio").offset().top}`);
+  if($(window).scrollTop() >= $("#about-me").offset().top 
+    && $(window).scrollTop() < $("#portfolio").offset().top){
 
-  if($(window).scrollTop() >= $("#about-me").offset().top){
+    $(".my-logo")
+      .fadeIn()
+      .removeClass("dark"); 
 
-    $(".my-logo").fadeIn(); 
+  } else if($(window).scrollTop() >= $("#portfolio").offset().top){
+
+    $(".my-logo").addClass("dark"); 
 
   } else {
 
-    $(".my-logo").fadeOut(); 
+    $(".my-logo")
+      .fadeOut()
+      .removeClass("dark");
 
   }
 
 });
 
 $(window).resize(function() {
-  $(".wrapper").height($(window).height());
+  windowHeight = $(window).height();
+  if(windowHeight < 650) { windowHeight = 650; }
+
+  $(".wrapper").height(windowHeight);
 });
 
 

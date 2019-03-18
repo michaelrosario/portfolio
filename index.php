@@ -104,7 +104,10 @@ ob_start("Minify_Html");?>
 
         </div>
         <div class="clearfix"></div>
-        <a class="resume-download" href="/resume/michael-rosario-resume.pdf" download="michael-rosario-resume.pdf"><i class="fas fa-file-download"></i> &nbsp; Resume</a>
+        <a class="resume-download" href="/resume/michael-rosario-resume.pdf" download="michael-rosario-resume.pdf">
+            <i class="fas fa-file-download"></i> 
+            &nbsp; Download Resume
+        </a>
 
 
     </div>
@@ -124,6 +127,69 @@ ob_start("Minify_Html");?>
             <li><a href="https://nodejs.org/en/" target="_blank"><ins class="fab fa-node-js"/></a></li>
             <li><a href="https://www.npmjs.com/" target="_blank"><ins class="fab fa-npm"/></a></li> 
         </ul>
+
+    </div>  
+
+    <div id="portfolio" class="wrapper">
+        <div class="my-logo">
+            <h1>Michael Rosario</h1>
+        </div>
+
+        <div class="portfolio-content">
+            <h3>Portfolio</h3>
+            <ul class="portFolioItems">
+                    <li>
+                        <a href="https://michaelrosario.github.io/Word-Guess-Game/" target="_blank">
+                            <span class="cover">
+                                <img src="./resources/images/portfolio-word_guess_game.png" alt="Word Guess Game">
+                            </span>
+                            Word Guess Game :  Sci-Fi Movies
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://michaelrosario.github.io/unit-4-game/" target="_blank">
+                            <span class="cover">
+                                 <img src="./resources/images/portfolio-star_wars.png" alt="Star Wars RPG">
+                            </span>
+                            Star Wars RPG
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://michaelrosario.github.io/TriviaGame" target="_blank">
+                            <span class="cover">
+                                 <img src="./resources/images/portfolio-trivia.png" alt="Animal Trivia">
+                            </span>
+                            Animal Trivia
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://michaelrosario.github.io/GifTastic/index.html" target="_blank">
+                                <span class="cover">
+                                     <img src="./resources/images/portfolio-gifstastic.png" alt="Giphy">
+                                </span>
+                                GifTastic [Giphy API]
+                        </a>
+                    </li>
+                     <li>
+                        <a href="https://michaelrosario.github.io/RPS-Multiplayer/index.html" target="_blank">
+                                <span class="cover">
+                                     <img src="./resources/images/portfolio-rps.jpg" alt="RPS Multiplayer">
+                                </span>
+                                Multiplayer Rock Paper Scissors 
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://workrimot.com/index.html" target="_blank">
+                                <span class="cover">
+                                     <img src="./resources/images/portfolio-workrimot.png" alt="Work Rimot">
+                                </span>
+                                WorkRimot - Real-time checkins! 
+                        </a>
+                    </li>
+                </ul>
+
+        </div>
+        
 
     </div>  
 
