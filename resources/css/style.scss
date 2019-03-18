@@ -241,6 +241,7 @@ ins { text-decoration: none; }
     }
 }
 
+
 #portfolio {
     float: left;
     overflow: hidden;
@@ -306,6 +307,15 @@ ins { text-decoration: none; }
 
  @media only screen and (max-width: 767px) {
 
+    #portfolio {
+        min-height: 1100px;
+        .portfolio-content {
+            ul {
+                li { width: 50%; height: auto; min-height: 250px; }
+            }
+        }
+    }
+
     .my-logo, #portfolio .my-logo {
        left: 50%;
         margin-left: -130px;
@@ -357,4 +367,25 @@ ins { text-decoration: none; }
 
  }
 
- 
+ @media only screen and (max-width: 500px) {
+
+    #portfolio {
+        .portfolio-content {
+            ul {
+                li { width: 50%; height: auto; min-height: 230px; }
+            }
+        }
+    }
+ }
+
+ @media only screen and (max-width: 400px) {
+
+    #portfolio {
+        min-height: 800px;
+        .portfolio-content {
+            ul {
+                li { width: 50%; height: auto; min-height: 200px; }
+            }
+        }
+    }
+ }
