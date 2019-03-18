@@ -143,7 +143,7 @@ ob_start("Minify_Html");?>
                             <span class="cover">
                                 <img src="./resources/images/portfolio-word_guess_game.png" alt="Word Guess Game">
                             </span>
-                            Word Guess Game :  Sci-Fi Movies
+                            Word Guess Game (<a href="https://github.com/michaelrosario/Word-Guess-Game" target="_blank">view in github</a>)
                         </a>
                     </li>
                     <li>
@@ -151,7 +151,7 @@ ob_start("Minify_Html");?>
                             <span class="cover">
                                  <img src="./resources/images/portfolio-star_wars.png" alt="Star Wars RPG">
                             </span>
-                            Star Wars RPG
+                            Star Wars RPG (<a href="https://github.com/michaelrosario/unit-4-game" target="_blank">view in github</a>)
                         </a>
                     </li>
                     <li>
@@ -159,7 +159,7 @@ ob_start("Minify_Html");?>
                             <span class="cover">
                                  <img src="./resources/images/portfolio-trivia.png" alt="Animal Trivia">
                             </span>
-                            Animal Trivia
+                            Animal Trivia (<a href="https://github.com/michaelrosario/TriviaGame" target="_blank">view in github</a>)
                         </a>
                     </li>
                     <li>
@@ -167,7 +167,7 @@ ob_start("Minify_Html");?>
                                 <span class="cover">
                                      <img src="./resources/images/portfolio-gifstastic.png" alt="Giphy">
                                 </span>
-                                GifTastic [Giphy API]
+                                GifTastic (<a href="https://github.com/michaelrosario/GifTastic" target="_blank">view in github</a>)
                         </a>
                     </li>
                      <li>
@@ -175,7 +175,7 @@ ob_start("Minify_Html");?>
                                 <span class="cover">
                                      <img src="./resources/images/portfolio-rps.jpg" alt="RPS Multiplayer">
                                 </span>
-                                Multiplayer Rock Paper Scissors 
+                                Rock Paper Scissors (<a href="https://github.com/michaelrosario/RPS-Multiplayer" target="_blank">view in github</a>)
                         </a>
                     </li>
                     <li>
@@ -183,7 +183,7 @@ ob_start("Minify_Html");?>
                                 <span class="cover">
                                      <img src="./resources/images/portfolio-workrimot.png" alt="Work Rimot">
                                 </span>
-                                WorkRimot - Real-time checkins! 
+                                WorkRimot - Real-time checkins! (<a href="https://github.com/michaelrosario/Bootcamp-Project-01" target="_blank">view in github</a>)
                         </a>
                     </li>
                 </ul>
