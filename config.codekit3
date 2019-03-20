@@ -33,6 +33,25 @@
 		"oAP": "/index.php",
 		"oF": 1
 		},
+	"/README.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/README.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
 	"/resources/css/foundation.min.css": {
 		"aP": 1,
 		"bl": 0,
@@ -167,6 +186,17 @@
 		"iS": 34837,
 		"oA": 0,
 		"oAP": "/resources/images/portfolio-word_guess_game.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/resources/images/portfolio-workrimot.png": {
+		"ft": 32768,
+		"iS": 4452715,
+		"oA": 0,
+		"oAP": "/resources/images/portfolio-workrimot.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
