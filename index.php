@@ -143,48 +143,54 @@ ob_start("Minify_Html");?>
                             <span class="cover">
                                 <img src="./resources/images/portfolio-word_guess_game.png" alt="Word Guess Game">
                             </span>
-                            Word Guess Game (<a href="https://github.com/michaelrosario/Word-Guess-Game" target="_blank">view in github</a>)
+                            Word Guess Game
                         </a>
+                        <a class="view-in-github" href="https://github.com/michaelrosario/Word-Guess-Game" target="_blank"><ins class="fab fa-github"></ins> view in github</a>
                     </li>
                     <li>
                         <a href="https://michaelrosario.github.io/unit-4-game/" target="_blank">
                             <span class="cover">
                                  <img src="./resources/images/portfolio-star_wars.png" alt="Star Wars RPG">
                             </span>
-                            Star Wars RPG (<a href="https://github.com/michaelrosario/unit-4-game" target="_blank">view in github</a>)
+                            Star Wars RPG
                         </a>
+                        <a class="view-in-github" href="https://github.com/michaelrosario/unit-4-game" target="_blank"><ins class="fab fa-github"></ins> view in github</a>
                     </li>
                     <li>
                         <a href="https://michaelrosario.github.io/TriviaGame" target="_blank">
                             <span class="cover">
                                  <img src="./resources/images/portfolio-trivia.png" alt="Animal Trivia">
                             </span>
-                            Animal Trivia (<a href="https://github.com/michaelrosario/TriviaGame" target="_blank">view in github</a>)
+                            Animal Trivia
                         </a>
+                        <a class="view-in-github" href="https://github.com/michaelrosario/TriviaGame" target="_blank"><ins class="fab fa-github"></ins> view in github</a>
                     </li>
                     <li>
                         <a href="https://michaelrosario.github.io/GifTastic/index.html" target="_blank">
                                 <span class="cover">
                                      <img src="./resources/images/portfolio-gifstastic.png" alt="Giphy">
                                 </span>
-                                GifTastic (<a href="https://github.com/michaelrosario/GifTastic" target="_blank">view in github</a>)
+                                GifTastic
                         </a>
+                        <a class="view-in-github" href="https://github.com/michaelrosario/GifTastic" target="_blank"><ins class="fab fa-github"></ins> view in github</a>
                     </li>
                      <li>
                         <a href="https://michaelrosario.github.io/RPS-Multiplayer/index.html" target="_blank">
                                 <span class="cover">
                                      <img src="./resources/images/portfolio-rps.jpg" alt="RPS Multiplayer">
                                 </span>
-                                Rock Paper Scissors (<a href="https://github.com/michaelrosario/RPS-Multiplayer" target="_blank">view in github</a>)
+                                Rock Paper Scissors
                         </a>
+                        <a class="view-in-github" href="https://github.com/michaelrosario/RPS-Multiplayer" target="_blank"><ins class="fab fa-github"></ins> view in github</a>
                     </li>
                     <li>
                         <a href="https://workrimot.com/index.html" target="_blank">
                                 <span class="cover">
                                      <img src="./resources/images/portfolio-workrimot.png" alt="Work Rimot">
                                 </span>
-                                WorkRimot - Real-time checkins! (<a href="https://github.com/michaelrosario/Bootcamp-Project-01" target="_blank">view in github</a>)
+                                WorkRimot - Real-time checkins!
                         </a>
+                        <a class="view-in-github" href="https://github.com/michaelrosario/Bootcamp-Project-01" target="_blank"><ins class="fab fa-github"></ins> view in github</a>
                     </li>
                 </ul>
 
