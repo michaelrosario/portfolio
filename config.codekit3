@@ -148,6 +148,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/resources/images/portfolio-liri.png": {
+		"ft": 32768,
+		"iS": 136698,
+		"oA": 0,
+		"oAP": "/resources/images/portfolio-liri.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"/resources/images/portfolio-rps.jpg": {
 		"ft": 16384,
 		"iS": 32937,

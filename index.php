@@ -192,6 +192,15 @@ ob_start("Minify_Html");?>
                         </a>
                         <a class="view-in-github" href="https://github.com/michaelrosario/Bootcamp-Project-01" target="_blank"><ins class="fab fa-github"></ins> view in github</a>
                     </li>
+                    <li>
+                        <a href="https://github.com/michaelrosario/Hey-LIRI" target="_blank">
+                                <span class="cover">
+                                     <img src="./resources/images/portfolio-liri.png" alt="portfolio-liri">
+                                </span>
+                                LIRI - Node CLI
+                        </a>
+                        <a class="view-in-github" href="https://github.com/michaelrosario/Hey-LIRI" target="_blank"><ins class="fab fa-github"></ins> view in github</a>
+                    </li>
                 </ul>
 
         </div>
