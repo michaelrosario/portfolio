@@ -141,11 +141,15 @@ ins { text-decoration: none; }
     .passion {
         font-family: "courier","courier new"; 
         position: relative;
-        top: 24%;
+        top: 0px;
         transform: perspective(1px) translateY(-24%);
-        margin: 50px auto;
+        margin: 24% auto 20px;
         color: #888;
-        display: block; font-size: 25px; min-height: 150px; padding: 0 20px; font-size: 25px; 
+        display: block; 
+        font-size: 25px; 
+        min-height: 150px; 
+        padding: 0 20px; 
+        font-size: 25px; 
         span { margin: 0; padding: 0; display: inline; font-size: 25px;  }
         .message { border-bottom: 1px solid #444; margin: 0; padding: 0; }
     }
@@ -345,7 +349,7 @@ ins { text-decoration: none; }
     #tools,
     #about-me { 
         .passion {
-            top: 18%;
+            margin-top: 18%;
             font-size: 20px;
             line-height: 1.25em;
             margin: 30px auto 20px;

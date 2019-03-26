@@ -201,6 +201,15 @@ ob_start("Minify_Html");?>
                         </a>
                         <a class="view-in-github" href="https://github.com/michaelrosario/Hey-LIRI" target="_blank"><ins class="fab fa-github"></ins> view in github</a>
                     </li>
+                    <li>
+                        <a href="https://github.com/michaelrosario/Constructor-Word-Guess" target="_blank">
+                                <span class="cover">
+                                     <img src="./resources/images/portfolio-word-guess-game-constructor.png" alt="portfolio-liri">
+                                </span>
+                                Word Guess Game - Node CLI
+                        </a>
+                        <a class="view-in-github" href="https://github.com/michaelrosario/Constructor-Word-Guess" target="_blank"><ins class="fab fa-github"></ins> view in github</a>
+                    </li>
                 </ul>
 
         </div>

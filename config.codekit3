@@ -143,8 +143,8 @@
 		"oA": 0,
 		"oAP": "/resources/images/portfolio-gifstastic.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -167,7 +167,7 @@
 		"oAP": "/resources/images/portfolio-rps.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/resources/images/portfolio-star_wars.png": {
@@ -186,6 +186,17 @@
 		"iS": 125179,
 		"oA": 0,
 		"oAP": "/resources/images/portfolio-trivia.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/resources/images/portfolio-word-guess-game-constructor.png": {
+		"ft": 32768,
+		"iS": 74643,
+		"oA": 0,
+		"oAP": "/resources/images/portfolio-word-guess-game-constructor.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -209,8 +220,8 @@
 		"oA": 0,
 		"oAP": "/resources/images/portfolio-workrimot.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
