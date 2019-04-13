@@ -105,6 +105,29 @@
 		"oS": 3,
 		"uL": 1
 		},
+	"/resources/css/test.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/resources/css/test-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/resources/css/test.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/resources/css/test.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"/resources/fonts/Georgia.woff": {
 		"cB": 0,
 		"ft": 8192,
@@ -136,6 +159,22 @@
 		"oA": 0,
 		"oAP": "/resources/fonts/NK_MonotypeCorsiva.woff2",
 		"oF": 0
+		},
+	"/resources/images/portfolio-bamazon.gif": {
+		"ft": 4194304,
+		"iS": 2468883,
+		"oA": 0,
+		"oAP": "/resources/images/portfolio-bamazon.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"/resources/images/portfolio-cli-word-guess.gif": {
+		"ft": 4194304,
+		"iS": 97817,
+		"oA": 0,
+		"oAP": "/resources/images/portfolio-cli-word-guess.gif",
+		"oF": 0,
+		"opt": 0
 		},
 	"/resources/images/portfolio-gifstastic.png": {
 		"ft": 32768,

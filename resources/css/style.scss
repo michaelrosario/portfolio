@@ -250,6 +250,7 @@ ins { text-decoration: none; }
     float: left;
     overflow: hidden;
     position: relative;
+    min-height: 1200px;
     .my-logo {  
        display: none;
        z-index: 1;
@@ -322,7 +323,7 @@ ins { text-decoration: none; }
  @media only screen and (max-width: 767px) {
 
     #portfolio {
-        min-height: 1100px;
+        min-height: 1900px;
         .portfolio-content {
             ul {
                 li { width: 50%; height: auto; min-height: 250px; }

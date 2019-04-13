@@ -203,12 +203,30 @@ ob_start("Minify_Html");?>
                     </li>
                     <li>
                         <a href="https://github.com/michaelrosario/Constructor-Word-Guess" target="_blank">
-                                <span class="cover">
-                                     <img src="./resources/images/portfolio-word-guess-game-constructor.png" alt="portfolio-liri">
+                                <span class="cover" style="background: url(./resources/images/portfolio-cli-word-guess.gif); background-size: cover;"> 
+                                     <img style="opacity: 0;" src="./resources/images/portfolio-cli-word-guess.gif" alt="portfolio-liri">
                                 </span>
                                 Word Guess Game - Node CLI
                         </a>
                         <a class="view-in-github" href="https://github.com/michaelrosario/Constructor-Word-Guess" target="_blank"><ins class="fab fa-github"></ins> view in github</a>
+                    </li>
+                    <li>
+                        <a href="https://github.com/michaelrosario/Bamazon" target="_blank">
+                                <span class="cover" style="background: url(./resources/images/portfolio-bamazon.gif); background-size: cover;">
+                                     <img style="opacity: 0;" src="./resources/images/portfolio-bamazon.gif" alt="portfolio-liri">
+                                </span>
+                                Bamazon Store - Node CLI
+                        </a>
+                        <a class="view-in-github" href="https://github.com/michaelrosario/Bamazon" target="_blank"><ins class="fab fa-github"></ins> view in github</a>
+                    </li>
+                    <li>
+                        <a href="https://still-scrubland-81933.herokuapp.com/" target="_blank">
+                                <span class="cover" style="background: url(./resources/images/portfolio-friend_finder.png); background-size: cover;">
+                                     <img style="opacity: 0;" src="./resources/images/portfolio-friend_finder.png" alt="portfolio-friend-finder">
+                                </span>
+                               Friend Finder
+                        </a>
+                        <a class="view-in-github" href="https://github.com/michaelrosario/FriendFinder" target="_blank"><ins class="fab fa-github"></ins> view in github</a>
                     </li>
                 </ul>
 
