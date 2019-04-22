@@ -228,10 +228,21 @@ ob_start("Minify_Html");?>
                         </a>
                         <a class="view-in-github" href="https://github.com/michaelrosario/FriendFinder" target="_blank"><ins class="fab fa-github"></ins> view in github</a>
                     </li>
+                    <li>
+                        <a href="https://quiet-peak-57360.herokuapp.com/" target="_blank">
+                                <span class="cover" style="background: url(./resources/images/portfolio-burger.png); background-size: cover;">
+                                     <img style="opacity: 0;" src="./resources/images/portfolio-burger.png" alt="portfolio-burger.png">
+                                </span>
+                               Friend Finder
+                        </a>
+                        <a class="view-in-github" href="https://github.com/michaelrosario/burger" target="_blank"><ins class="fab fa-github"></ins> view in github</a>
+                    </li>
                 </ul>
 
         </div>
         
+
+
 
     </div>  
 
