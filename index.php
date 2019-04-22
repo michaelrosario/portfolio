@@ -233,7 +233,7 @@ ob_start("Minify_Html");?>
                                 <span class="cover" style="background: url(./resources/images/portfolio-burger.png); background-size: cover;">
                                      <img style="opacity: 0;" src="./resources/images/portfolio-burger.png" alt="portfolio-burger.png">
                                 </span>
-                               Friend Finder
+                               Burger
                         </a>
                         <a class="view-in-github" href="https://github.com/michaelrosario/burger" target="_blank"><ins class="fab fa-github"></ins> view in github</a>
                     </li>
