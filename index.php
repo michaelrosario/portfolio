@@ -240,7 +240,7 @@ ob_start("Minify_Html");?>
                     <li>
                         <a href="https://agile-chamber-55817.herokuapp.com/" target="_blank">
                                 <span class="cover" style="background: url(./resources/images/portfolio-burger.png); background-size: cover;">
-                                     <img style="opacity: 0;" src="./resources/images/portfolio-burger.png" alt="portfolio-burger.png">
+                                     <img style="opacity: 0;" src="./resources/images/portfolio-sequelize-burger.png" alt="portfolio-burger.png">
                                 </span>
                                Burger [Sequelize]
                         </a>
