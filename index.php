@@ -239,13 +239,25 @@ ob_start("Minify_Html");?>
                     </li>
                     <li>
                         <a href="https://agile-chamber-55817.herokuapp.com/" target="_blank">
-                                <span class="cover" style="background: url(./resources/images/portfolio-sequelize-burger.png); background-size: cover;">
+                                <span class="cover" style="background: url(./resources/images/portfolio-sequelize-burger.png) center; background-size: cover;">
                                      <img style="opacity: 0;" src="./resources/images/portfolio-sequelize-burger.png" alt="portfolio-burger.png">
                                 </span>
                                Burger [Sequelize]
                         </a>
                         <a class="view-in-github" href="https://github.com/michaelrosario/burger-2" target="_blank"><ins class="fab fa-github"></ins> view in github</a>
                     </li>
+                    <li>
+                        <a href=" https://glacial-lowlands-74668.herokuapp.com/" target="_blank">
+                                <span class="cover" style="background: url(./resources/images/portfolio-lazeeweb.png) center; background-size: cover;">
+                                     <img style="opacity: 0;" src="./resources/images/portfolio-lazeeweb.png" alt="portfolio-lazeeweb.png">
+                                </span>
+                               LazeeWeb [Project 2]
+                        </a>
+                        <a class="view-in-github" href="https://github.com/shye11/project-2" target="_blank"><ins class="fab fa-github"></ins> view in github</a>
+                    </li>
+
+
+                    
                 </ul>
 
         </div>
