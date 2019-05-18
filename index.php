@@ -248,13 +248,22 @@ ob_start("Minify_Html");?>
                         <a class="view-in-github" href="https://github.com/michaelrosario/burger-2" target="_blank"><ins class="fab fa-github"></ins> view in github</a>
                     </li>
                     <li>
-                        <a href=" https://glacial-lowlands-74668.herokuapp.com/" target="_blank">
+                        <a href="https://glacial-lowlands-74668.herokuapp.com/" target="_blank">
                                 <span class="cover" style="background: url(./resources/images/portfolio-lazeeweb.png) center; background-size: cover;">
                                      <img style="opacity: 0;" src="./resources/images/portfolio-lazeeweb.png" alt="portfolio-lazeeweb.png">
                                 </span>
                                LazeeWeb [Project 2]
                         </a>
                         <a class="view-in-github" href="https://github.com/shye11/project-2" target="_blank"><ins class="fab fa-github"></ins> view in github</a>
+                    </li>
+                    <li>
+                        <a href="https://gentle-spire-23140.herokuapp.com/" target="_blank">
+                                <span class="cover" style="background: url(./resources/images/portfolio-scrapements.png) center; background-size: cover;">
+                                     <img style="opacity: 0;" src="./resources/images/portfolio-scrapements.png" alt="portfolio-scrapements.png">
+                                </span>
+                                scrapements [MongoDB]
+                        </a>
+                        <a class="view-in-github" href="https://github.com/michaelrosario/scrapements" target="_blank"><ins class="fab fa-github"></ins> view in github</a>
                     </li>
 
 
