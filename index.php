@@ -265,6 +265,15 @@ ob_start("Minify_Html");?>
                         </a>
                         <a class="view-in-github" href="https://github.com/michaelrosario/scrapements" target="_blank"><ins class="fab fa-github"></ins> view in github</a>
                     </li>
+                    <li>
+                        <a href="https://michaelrosario.github.io/clickygame/" target="_blank">
+                                <span class="cover" style="background: url(./resources/images/portfolio-clicky.gif) center; background-size: cover;">
+                                     <img style="opacity: 0;" src="./resources/images/portfolio-clicky.gif" alt="portfolio-clicky.gif">
+                                </span>
+                                Clicky Game [React]
+                        </a>
+                        <a class="view-in-github" href="https://github.com/michaelrosario/clickygame" target="_blank"><ins class="fab fa-github"></ins> view in github</a>
+                    </li>
 
 
                     
