@@ -166,7 +166,18 @@
 		"oA": 0,
 		"oAP": "/resources/images/portfolio-bamazon.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
+		},
+	"/resources/images/portfolio-burger.png": {
+		"ft": 32768,
+		"iS": 908870,
+		"oA": 0,
+		"oAP": "/resources/images/portfolio-burger.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"/resources/images/portfolio-cli-word-guess.gif": {
 		"ft": 4194304,
@@ -176,6 +187,25 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"/resources/images/portfolio-clicky.gif": {
+		"ft": 4194304,
+		"iS": 1708260,
+		"oA": 0,
+		"oAP": "/resources/images/portfolio-clicky.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"/resources/images/portfolio-friend_finder.png": {
+		"ft": 32768,
+		"iS": 599736,
+		"oA": 0,
+		"oAP": "/resources/images/portfolio-friend_finder.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/resources/images/portfolio-gifstastic.png": {
 		"ft": 32768,
 		"iS": 2438380,
@@ -184,6 +214,17 @@
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/resources/images/portfolio-lazeeweb.png": {
+		"ft": 32768,
+		"iS": 735441,
+		"oA": 0,
+		"oAP": "/resources/images/portfolio-lazeeweb.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -198,6 +239,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/resources/images/portfolio-mern.png": {
+		"ft": 32768,
+		"iS": 996344,
+		"oA": 0,
+		"oAP": "/resources/images/portfolio-mern.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/resources/images/portfolio-rps.jpg": {
 		"ft": 16384,
 		"iS": 32937,
@@ -207,6 +259,28 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
+		"q": 100
+		},
+	"/resources/images/portfolio-scrapements.png": {
+		"ft": 32768,
+		"iS": 1584068,
+		"oA": 0,
+		"oAP": "/resources/images/portfolio-scrapements.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/resources/images/portfolio-sequelize-burger.png": {
+		"ft": 32768,
+		"iS": 711114,
+		"oA": 0,
+		"oAP": "/resources/images/portfolio-sequelize-burger.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"/resources/images/portfolio-star_wars.png": {

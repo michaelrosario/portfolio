@@ -25,7 +25,7 @@ ob_start("Minify_Html");?>
 <html lang="en">
 <head>
 
-	<title>Michael Rosario - Web Designer and Developer</title>
+    <title>Michael Rosario - Web Designer and Developer</title>
     <link rel="stylesheet" type="text/css" href="/resources/css/reset.css">
     
     <link rel="stylesheet" type="text/css" href="/resources/css/foundation.min.css">
@@ -37,14 +37,15 @@ ob_start("Minify_Html");?>
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="coderhype" content="5d26659b551e35002abe7c7f"></meta>
     
-	<meta name="description" content="Michael Rosario is a Web Designer and Developer." />
+    <meta name="description" content="Michael Rosario is a Web Designer and Developer." />
     <meta name="keywords" content="developer,designer,css,sass,ui,ux,code" />
     
-	<meta property="og:title" content="Michael Rosario" />
-	<meta property="og:type" content="website"/>
-	<meta property="og:description" content="Michael Rosario is a Web Designer and Developer." />
-	<meta property="og:url" content="http://www.michaelrosario.com" />
+    <meta property="og:title" content="Michael Rosario" />
+    <meta property="og:type" content="website"/>
+    <meta property="og:description" content="Michael Rosario is a Web Designer and Developer." />
+    <meta property="og:url" content="http://www.michaelrosario.com" />
 
     <noscript>
         <style>
@@ -127,6 +128,7 @@ ob_start("Minify_Html");?>
             <li><a href="https://www.slack.com/" target="_blank"><ins class="fab fa-slack" /></a></li>
             <li><a href="https://nodejs.org/en/" target="_blank"><ins class="fab fa-node-js"/></a></li>
             <li><a href="https://www.npmjs.com/" target="_blank"><ins class="fab fa-npm"/></a></li> 
+            <li><a href="https://reactjs.org/" target="_blank"><ins class="fab fa-react"/></a></li> 
         </ul>
 
     </div>  
@@ -137,153 +139,12 @@ ob_start("Minify_Html");?>
         </div>
 
         <div class="portfolio-content">
-            <h3>Portfolio</h3>
-            <ul class="portFolioItems">
-                    <li>
-                        <a href="https://michaelrosario.github.io/Word-Guess-Game/" target="_blank">
-                            <span class="cover">
-                                <img src="./resources/images/portfolio-word_guess_game.png" alt="Word Guess Game">
-                            </span>
-                            Word Guess Game
-                        </a>
-                        <a class="view-in-github" href="https://github.com/michaelrosario/Word-Guess-Game" target="_blank"><ins class="fab fa-github"></ins> view in github</a>
-                    </li>
-                    <li>
-                        <a href="https://michaelrosario.github.io/unit-4-game/" target="_blank">
-                            <span class="cover">
-                                 <img src="./resources/images/portfolio-star_wars.png" alt="Star Wars RPG">
-                            </span>
-                            Star Wars RPG
-                        </a>
-                        <a class="view-in-github" href="https://github.com/michaelrosario/unit-4-game" target="_blank"><ins class="fab fa-github"></ins> view in github</a>
-                    </li>
-                    <li>
-                        <a href="https://michaelrosario.github.io/TriviaGame" target="_blank">
-                            <span class="cover">
-                                 <img src="./resources/images/portfolio-trivia.png" alt="Animal Trivia">
-                            </span>
-                            Animal Trivia
-                        </a>
-                        <a class="view-in-github" href="https://github.com/michaelrosario/TriviaGame" target="_blank"><ins class="fab fa-github"></ins> view in github</a>
-                    </li>
-                    <li>
-                        <a href="https://michaelrosario.github.io/GifTastic/index.html" target="_blank">
-                                <span class="cover">
-                                     <img src="./resources/images/portfolio-gifstastic.png" alt="Giphy">
-                                </span>
-                                GifTastic
-                        </a>
-                        <a class="view-in-github" href="https://github.com/michaelrosario/GifTastic" target="_blank"><ins class="fab fa-github"></ins> view in github</a>
-                    </li>
-                     <li>
-                        <a href="https://michaelrosario.github.io/RPS-Multiplayer/index.html" target="_blank">
-                                <span class="cover">
-                                     <img src="./resources/images/portfolio-rps.jpg" alt="RPS Multiplayer">
-                                </span>
-                                Rock Paper Scissors
-                        </a>
-                        <a class="view-in-github" href="https://github.com/michaelrosario/RPS-Multiplayer" target="_blank"><ins class="fab fa-github"></ins> view in github</a>
-                    </li>
-                    <li>
-                        <a href="https://workrimot.com/index.html" target="_blank">
-                                <span class="cover">
-                                     <img src="./resources/images/portfolio-workrimot.png" alt="Work Rimot">
-                                </span>
-                                WorkRimot - Real-time checkins!
-                        </a>
-                        <a class="view-in-github" href="https://github.com/michaelrosario/Bootcamp-Project-01" target="_blank"><ins class="fab fa-github"></ins> view in github</a>
-                    </li>
-                    <li>
-                        <a href="https://github.com/michaelrosario/Hey-LIRI" target="_blank">
-                                <span class="cover">
-                                     <img src="./resources/images/portfolio-liri.png" alt="portfolio-liri">
-                                </span>
-                                LIRI - Node CLI
-                        </a>
-                        <a class="view-in-github" href="https://github.com/michaelrosario/Hey-LIRI" target="_blank"><ins class="fab fa-github"></ins> view in github</a>
-                    </li>
-                    <li>
-                        <a href="https://github.com/michaelrosario/Constructor-Word-Guess" target="_blank">
-                                <span class="cover" style="background: url(./resources/images/portfolio-cli-word-guess.gif); background-size: cover;"> 
-                                     <img style="opacity: 0;" src="./resources/images/portfolio-cli-word-guess.gif" alt="portfolio-liri">
-                                </span>
-                                Word Guess Game - Node CLI
-                        </a>
-                        <a class="view-in-github" href="https://github.com/michaelrosario/Constructor-Word-Guess" target="_blank"><ins class="fab fa-github"></ins> view in github</a>
-                    </li>
-                    <li>
-                        <a href="https://github.com/michaelrosario/Bamazon" target="_blank">
-                                <span class="cover" style="background: url(./resources/images/portfolio-bamazon.gif); background-size: cover;">
-                                     <img style="opacity: 0;" src="./resources/images/portfolio-bamazon.gif" alt="portfolio-liri">
-                                </span>
-                                Bamazon Store - Node CLI
-                        </a>
-                        <a class="view-in-github" href="https://github.com/michaelrosario/Bamazon" target="_blank"><ins class="fab fa-github"></ins> view in github</a>
-                    </li>
-                    <li>
-                        <a href="https://still-scrubland-81933.herokuapp.com/" target="_blank">
-                                <span class="cover" style="background: url(./resources/images/portfolio-friend_finder.png); background-size: cover;">
-                                     <img style="opacity: 0;" src="./resources/images/portfolio-friend_finder.png" alt="portfolio-friend-finder">
-                                </span>
-                               Friend Finder
-                        </a>
-                        <a class="view-in-github" href="https://github.com/michaelrosario/FriendFinder" target="_blank"><ins class="fab fa-github"></ins> view in github</a>
-                    </li>
-                    <li>
-                        <a href="https://quiet-peak-57360.herokuapp.com/" target="_blank">
-                                <span class="cover" style="background: url(./resources/images/portfolio-burger.png); background-size: cover;">
-                                     <img style="opacity: 0;" src="./resources/images/portfolio-burger.png" alt="portfolio-burger.png">
-                                </span>
-                               Burger [ORM]
-                        </a>
-                        <a class="view-in-github" href="https://github.com/michaelrosario/burger" target="_blank"><ins class="fab fa-github"></ins> view in github</a>
-                    </li>
-                    <li>
-                        <a href="https://agile-chamber-55817.herokuapp.com/" target="_blank">
-                                <span class="cover" style="background: url(./resources/images/portfolio-sequelize-burger.png) center; background-size: cover;">
-                                     <img style="opacity: 0;" src="./resources/images/portfolio-sequelize-burger.png" alt="portfolio-burger.png">
-                                </span>
-                               Burger [Sequelize]
-                        </a>
-                        <a class="view-in-github" href="https://github.com/michaelrosario/burger-2" target="_blank"><ins class="fab fa-github"></ins> view in github</a>
-                    </li>
-                    <li>
-                        <a href="https://glacial-lowlands-74668.herokuapp.com/" target="_blank">
-                                <span class="cover" style="background: url(./resources/images/portfolio-lazeeweb.png) center; background-size: cover;">
-                                     <img style="opacity: 0;" src="./resources/images/portfolio-lazeeweb.png" alt="portfolio-lazeeweb.png">
-                                </span>
-                               LazeeWeb [Project 2]
-                        </a>
-                        <a class="view-in-github" href="https://github.com/shye11/project-2" target="_blank"><ins class="fab fa-github"></ins> view in github</a>
-                    </li>
-                    <li>
-                        <a href="https://gentle-spire-23140.herokuapp.com/" target="_blank">
-                                <span class="cover" style="background: url(./resources/images/portfolio-scrapements.png) center; background-size: cover;">
-                                     <img style="opacity: 0;" src="./resources/images/portfolio-scrapements.png" alt="portfolio-scrapements.png">
-                                </span>
-                                scrapements [MongoDB]
-                        </a>
-                        <a class="view-in-github" href="https://github.com/michaelrosario/scrapements" target="_blank"><ins class="fab fa-github"></ins> view in github</a>
-                    </li>
-                    <li>
-                        <a href="https://michaelrosario.github.io/clickygame/" target="_blank">
-                                <span class="cover" style="background: url(./resources/images/portfolio-clicky.gif) center; background-size: cover;">
-                                     <img style="opacity: 0;" src="./resources/images/portfolio-clicky.gif" alt="portfolio-clicky.gif">
-                                </span>
-                                Clicky Game [React]
-                        </a>
-                        <a class="view-in-github" href="https://github.com/michaelrosario/clickygame" target="_blank"><ins class="fab fa-github"></ins> view in github</a>
-                    </li>
+            <h3>Bootcamp Portfolio</h3>
 
-
-                    
-                </ul>
+            <ul class="portFolioItems"><!-- Dynamically Added --></ul>
 
         </div>
         
-
-
-
     </div>  
 
 
@@ -293,6 +154,130 @@ ob_start("Minify_Html");?>
     <script src="resources/js/vendor/foundation.min.js"></script>
     <script src="resources/js/app-min.js"></script>
     
+    <script>
+        $(document).ready(function(){
+            let portfolio = [
+                    {
+                        title: "Word Guess Game",
+                        image: "./resources/images/portfolio-word_guess_game.png",
+                        link: "https://michaelrosario.github.io/Word-Guess-Game/",
+                        github: "https://github.com/michaelrosario/Word-Guess-Game"
+                    },
+                    {
+                        title: "Star Wars RPG",
+                        image: "./resources/images/portfolio-star_wars.png",
+                        link: "https://michaelrosario.github.io/unit-4-game/",
+                        github: "https://github.com/michaelrosario/unit-4-game"
+                    },
+                    {
+                        title: "Animal Trivia",
+                        image: "./resources/images/portfolio-trivia.png",
+                        link: "https://michaelrosario.github.io/TriviaGame",
+                        github: "https://github.com/michaelrosario/TriviaGame"
+                    },
+                    {
+                        title: "GifTastic",
+                        image: "./resources/images/portfolio-gifstastic.png",
+                        link: "https://michaelrosario.github.io/GifTastic/index.html",
+                        github: "https://github.com/michaelrosario/GifTastic"
+                    },
+                    {
+                        title: "Rock Paper Scissors",
+                        image: "./resources/images/portfolio-rps.jpg",
+                        link: "https://michaelrosario.github.io/RPS-Multiplayer/index.html",
+                        github: "https://github.com/michaelrosario/RPS-Multiplayer"
+                    },
+                    {
+                        title: "Rimot",
+                        image: "./resources/images/portfolio-workrimot.png",
+                        link: "https://workrimot.com/index.html",
+                        github: "https://github.com/michaelrosario/Bootcamp-Project-01"
+                    },
+                    {
+                        title: "LIRI - Node CLI",
+                        image: "./resources/images/portfolio-liri.png",
+                        link: "https://github.com/michaelrosario/Hey-LIRI",
+                        github: "https://github.com/michaelrosario/Hey-LIRI"
+                    },
+                    {
+                        title: "Word Guess Game - Node CLI",
+                        image: "./resources/images/portfolio-cli-word-guess.gif",
+                        link: "https://github.com/michaelrosario/Constructor-Word-Guess",
+                        github: "https://github.com/michaelrosario/Constructor-Word-Guess"
+                    },
+                    {
+                        title: "Bamazon Store - Node CLI",
+                        image: "./resources/images/portfolio-bamazon.gif",
+                        link: "https://github.com/michaelrosario/Bamazon",
+                        github: "https://github.com/michaelrosario/Bamazon"
+                    },
+                    {
+                        title: "Friend Finder",
+                        image: "./resources/images/portfolio-friend_finder.png",
+                        link: "https://still-scrubland-81933.herokuapp.com/",
+                        github: "https://github.com/michaelrosario/FriendFinder"
+                    },
+                    {
+                        title: "Burger [ORM]",
+                        image: "./resources/images/portfolio-burger.png",
+                        link: "https://quiet-peak-57360.herokuapp.com/",
+                        github: "https://github.com/michaelrosario/burger"
+                    },
+                    {
+                        title: "Burger [Sequelize]",
+                        image: "./resources/images/portfolio-sequelize-burger.png",
+                        link: "https://agile-chamber-55817.herokuapp.com/",
+                        github: "https://github.com/michaelrosario/burger-2"
+                    },
+                    {
+                        title: "LazeeWeb [Project 2]",
+                        image: "./resources/images/portfolio-lazeeweb.png",
+                        link: "https://glacial-lowlands-74668.herokuapp.com/",
+                        github: "https://github.com/shye11/project-2"
+                    },
+                    {
+                        title: "Scrapements [MongoDB]",
+                        image: "./resources/images/portfolio-scrapements.png",
+                        link: "https://gentle-spire-23140.herokuapp.com/",
+                        github: "https://github.com/michaelrosario/scrapements"
+                    },
+                    {
+                        title: "Clicky Game [React]",
+                        image: "./resources/images/portfolio-clicky.gif",
+                        link: "https://michaelrosario.github.io/clickygame/",
+                        github: "https://github.com/michaelrosario/clickygame"
+                    },
+                    {
+                        title: "Google Books API [MERN]",
+                        image: "./resources/images/portfolio-mern.png",
+                        link: "https://stark-sands-82717.herokuapp.com/",
+                        github: "https://github.com/michaelrosario/google-book-search"
+                    }
+
+
+                ];
+
+            portfolio.forEach(function(item){
+
+
+
+                $(".portFolioItems").prepend(`
+                    <li>
+                        <a href="${item.link}" target="_blank">
+                                <span class="cover" style="background: url(${item.image}) center; background-size: cover;">
+                                     <img style="opacity: 0;" src="${item.image}" alt="${item.title}">
+                                </span>
+                                ${item.title}
+                        </a>
+                        <a class="view-in-github" href="${item.github}" target="_blank"><ins class="fab fa-github"></ins> view in github</a>
+                    </li>
+                `);
+
+            });
+
+        });
+    </script>
+
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-124529822-1"></script>
     <script>
