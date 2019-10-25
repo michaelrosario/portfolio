@@ -25,14 +25,6 @@
 		"oAP": "/contactengine.php",
 		"oF": 0
 		},
-	"/index.php": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/index.php",
-		"oF": 1
-		},
 	"/README.md": {
 		"cB": 0,
 		"cS": 0,
@@ -507,6 +499,14 @@
 		"oA": 0,
 		"oAP": "/robots.txt",
 		"oF": 0
+		},
+	"/src/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 1,
+		"oA": 0,
+		"oAP": "/index.php",
+		"oF": 3
 		}
 	},
 "hooks": [
